@@ -337,6 +337,7 @@
   <constants>Constant.Исправления</constants>
   <constants>Constant.Изсправления</constants>
   <constants>Constant.Константа</constants>
+  <constants>Constant.Константа1</constants>
   <commonForms>CommonForm.ОбщиеНастройки</commonForms>
   <commonForms>CommonForm.НастройкиМобильногоУстройства</commonForms>
   <commonForms>CommonForm.НастройкаПочты</commonForms>
