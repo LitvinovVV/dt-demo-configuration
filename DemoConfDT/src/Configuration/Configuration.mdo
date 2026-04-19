@@ -336,6 +336,7 @@
   <constants>Constant.ОтметкаНаФотоснимкеТекст</constants>
   <constants>Constant.Исправления</constants>
   <constants>Constant.Изсправления</constants>
+  <constants>Constant.Константа</constants>
   <commonForms>CommonForm.ОбщиеНастройки</commonForms>
   <commonForms>CommonForm.НастройкиМобильногоУстройства</commonForms>
   <commonForms>CommonForm.НастройкаПочты</commonForms>
